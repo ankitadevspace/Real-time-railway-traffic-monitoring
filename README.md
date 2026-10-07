@@ -8,6 +8,10 @@ A portfolio project demonstrating real-time railway traffic monitoring with ASP.
 
 > Note: The live dashboard will display real-time train data once the ASP.NET Core backend is deployed.
 
+## 🎥 Live Dashboard Demo
+
+![Railway Traffic Monitoring Demo](docs/railway-monitoring-demo.gif)
+
 ## Features
 
 - Live train fleet dashboard
