@@ -16,7 +16,7 @@ A portfolio project demonstrating real-time railway traffic monitoring with ASP.
 
 ## Tech Stack
 
-- C# / .NET 8
+- C# / .NET 10
 - ASP.NET Core Web API
 - SignalR
 - React
