@@ -2,6 +2,12 @@
 
 A portfolio project demonstrating real-time railway traffic monitoring with ASP.NET Core, SignalR and React.
 
+## 🚀 Live Demo
+
+🔗 **[Open Railway Control Center](https://real-time-railway-traffic-monitoring.vercel.app)**
+
+> Note: The live dashboard will display real-time train data once the ASP.NET Core backend is deployed.
+
 ## Features
 
 - Live train fleet dashboard
