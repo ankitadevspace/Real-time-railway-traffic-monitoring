@@ -9,6 +9,8 @@ https://real-time-railway-traffic-monitorin.vercel.app/
 
 > Note: The live dashboard will display real-time train data once the ASP.NET Core backend is deployed.
 
+#FRONTEND LINK - https://real-time-railway-traffic-monitorin.vercel.app/
+
 ## 🎥 Live Dashboard Demo
 
 ![Railway Traffic Monitoring Demo](docs/railway-monitoring-demo.gif)
